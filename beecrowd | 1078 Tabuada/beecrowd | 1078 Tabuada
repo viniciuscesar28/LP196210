@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main() {
+    int n;
+    
+    // Lê o valor inteiro N da entrada
+    scanf("%d", &n);
+    
+    // Loop de 1 até 10 para gerar a tabuada
+    for (int i = 1; i <= 10; i++) {
+        // Imprime no formato: "1 x N = resultado"
+        printf("%d x %d = %d\n", i, n, i * n);
+    }
+    
+    return 0;
+}
