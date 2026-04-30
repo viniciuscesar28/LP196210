@@ -1,0 +1,29 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : <<<Vinícius Cesar Sotelo Ambires>>>
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1071
+Data        : 14/04/2026
+Objetivo    : imprimir a menssagem "Hello World" na tela
+Aprendizado : <<<Foi aprendido noções basica de C>>>
+-------------------------------------------------------------------------- */
+#include <stdio.h>
+
+int main() {
+    int x, y;
+    scanf("%d %d", &x, &y);
+    
+    int soma = 0;
+    int menor = (x < y) ? x : y;
+    int maior = (x > y) ? x : y;
+    
+    for (int i = menor + 1; i < maior; i++) {
+        if (i % 2 != 0) {
+            soma += i;
+        }
+    }
+    
+    printf("%d\n", soma);
+    
+    return 0;
+}
