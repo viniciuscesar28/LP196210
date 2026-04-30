@@ -1,4 +1,12 @@
-
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : <<<Vinícius Cesar Sotelo Ambires>>>
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1235
+Data        : 23/04/2026
+Objetivo    : Fazer uma sentença dançante
+Aprendizado : <<<uso do wile,fgets,,strcspn,isalpha>>>
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
