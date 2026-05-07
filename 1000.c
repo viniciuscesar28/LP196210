@@ -1,7 +1,7 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : <<<Vinícius Cesar Sotelo Ambires>>>
-Linguagem   : C
+Linguagem   : C99
 Problema    : https://judge.beecrowd.com/pt/problems/view/1000
 Data        : 07/04/2026
 Objetivo    : imprimir a menssagem "Hello World" na tela
