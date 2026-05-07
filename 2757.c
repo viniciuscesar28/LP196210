@@ -1,7 +1,7 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : <<<Vinícius Cesar Sotelo Ambires>>>
-Linguagem   : C
+Linguagem   : C99
 Problema    : https://judge.beecrowd.com/pt/problems/view/2757
 Data        : 09/04/2026
 Objetivo    : Fazera um programa que crie 3 variaveis(com os valores dentro dos parametros indicados na questão) e as imprima de 4 formas (formas especificadas na questão)
