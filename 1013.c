@@ -1,7 +1,7 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : <<<Vinícius Cesar Sotelo Ambires>>>
-Linguagem   : C
+Linguagem   : C99
 Problema    : https://judge.beecrowd.com/pt/problems/view/1013
 Data        : 07/04/2026
 Objetivo    : Fazera um programa que leia três valores e apresente o maior dos três valores lidos seguido da mensagem “eh o maior”.
