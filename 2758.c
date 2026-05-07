@@ -1,7 +1,7 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : <<<Vinícius Cesar Sotelo Ambires>>>
-Linguagem   : C
+Linguagem   : C99
 Problema    : https://judge.beecrowd.com/pt/problems/view/2758
 Data        : 09/04/2026
 Objetivo    : Fazera um programa que rie duas variáveis para armazenar números reais de precisão e duas variáveis para armazenar números reais de precisão dupla, e então imprima elas das formas solicitadas na questão
