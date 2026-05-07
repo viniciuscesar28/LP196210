@@ -1,4 +1,12 @@
-
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : <<<Vinícius Cesar Sotelo Ambires>>>
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1024
+Data        : 07/05/2026
+Objetivo    : construir um programa simples de criptografia.
+Aprendizado : <<<fortificar o uso e entendimento de comandos como while,getchar,fget,if,for...de forma mais complexa>>>
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <string.h>
 
