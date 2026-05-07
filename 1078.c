@@ -1,7 +1,7 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : <<<Vinícius Cesar Sotelo Ambires>>>
-Linguagem   : C
+Linguagem   : C99
 Problema    : https://judge.beecrowd.com/pt/problems/view/1078
 Data        : 29/04/2026
 Objetivo    : Criar um programa que monte a tabuada de um número "N"
