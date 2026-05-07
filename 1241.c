@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : <<<Vinícius Cesar Sotelo Ambires>>>
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1241
-Data        : 07/05/2026
+Data        : 05/05/2026
 Objetivo    : Fazer um programa para verificar, à partir de dois valores muito grandes A e B, se B corresponde aos últimos dígitos de A.
 Aprendizado : <<<fortificar o uso e entendimento de comandos como while,if,scanf,...>>>
 -------------------------------------------------------------------------- */
