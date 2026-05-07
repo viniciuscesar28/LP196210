@@ -18,7 +18,7 @@ int main() {
     char str[1005];
 
     while (N--) {
-        fgets(str, sizeof(str), stdin);
+        fgets(str, 100, stdin);
 
         int len = strlen(str);
 
