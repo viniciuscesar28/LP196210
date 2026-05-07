@@ -1,7 +1,7 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : <<<Vinícius Cesar Sotelo Ambires>>>
-Linguagem   : C
+Linguagem   : C99
 Problema    : https://judge.beecrowd.com/pt/problems/view/1071
 Data        : 14/04/2026
 Objetivo    : Leia 2 valores inteiros X e Y. A seguir, calcule e mostre a soma dos números impares entre eles.
