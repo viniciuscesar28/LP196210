@@ -5,7 +5,7 @@ Linguagem   : C99
 Problema    : https://judge.beecrowd.com/pt/problems/view/1017
 Data        : 19/05/2026
 Objetivo    : obter a distância percorrida e, em seguida, calcular quantos litros seriam necessários. Mostrando o valor com 3 casas decimais após o ponto.
-Aprendizado : <<<praticar c>>>
+Aprendizado : <<<praticar c usando a função float>>>
 -------------------------------------------------------------------------- */
 #include <stdio.h>
 
