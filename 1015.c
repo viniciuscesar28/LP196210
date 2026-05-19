@@ -1,4 +1,12 @@
-
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : <<<Vinícius Cesar Sotelo Ambires>>>
+Linguagem   : C99
+Problema    : https://judge.beecrowd.com/pt/problems/view/1015
+Data        : 19/05/2026
+Objetivo    : eia os quatro valores correspondentes aos eixos x e ye calcule a distância entre elesmostrando 4 casas decimais
+Aprendizado : <<<pratica de programar em c>>>
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <math.h>
 
