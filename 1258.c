@@ -1,4 +1,13 @@
-
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : <<<Vinícius Cesar Sotelo Ambires>>>
+Linguagem   : C99
+Problema    : https://judge.beecrowd.com/pt/problems/view/1258
+Data        : 21/05/2026
+Objetivo    : 
+Aprendizado : <<<Foi aprendido noções basica de C>>>
+duvidas     :
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
