@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : <<<Vinícius Cesar Sotelo Ambires>>>
+Linguagem   : C99
+Problema    : https://judge.beecrowd.com/pt/problems/view/1534
+Data        : 19/05/2026
+Objetivo    : Ler um valor inteiro N que é o tamanho da matriz que deve ser impressa conforme o modelo fornecido.
+Aprendizado : <<<pratica de c sem operador>>>
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int main(void) {
