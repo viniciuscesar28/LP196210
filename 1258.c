@@ -5,7 +5,7 @@ Linguagem   : C99
 Problema    : https://judge.beecrowd.com/pt/problems/view/1258
 Data        : 21/05/2026
 Objetivo    : 
-Aprendizado : <<<Foi aprendido noções basica de C>>>
+Aprendizado : <<<Foi aprendido noções de C com o uso de struct>>>
 duvidas     :
 -------------------------------------------------------------------------- */
 #include <stdio.h>
