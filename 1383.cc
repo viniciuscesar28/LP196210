@@ -2,7 +2,7 @@
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : <<<Vinícius Cesar Sotelo Ambires>>>
 Linguagem   : C++
-Problema    : https://judge.beecrowd.com/pt/problems/view/1083
+Problema    : https://judge.beecrowd.com/pt/problems/view/1383
 Data        : 11/06/2026
 Objetivo    : Verificar se cada matriz 9×9 fornecida é uma solução válida de Sudoku obedecendo às regras das linhas, colunas e subgrades 3×3
 Aprendizado : <<<uso do c++ e matrizes>>>
